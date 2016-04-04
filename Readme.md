@@ -1,1 +1,1 @@
-Learning intro to javascripts
+Learning intro to javascript

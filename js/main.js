@@ -55,12 +55,13 @@ var timAge = "Tim is " + age + " years old"
 
 
 // Store some information following in variables.
-var yourName = 'Jeff';
-var instructorName = 'Tim';
+var yourName;
+var instructorName;
 
 // Update the variables above so the expression reads correctly.
 // Answers Below:
-
+var yourName = "Jeff";
+var instructorName = "Tim";
 
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
